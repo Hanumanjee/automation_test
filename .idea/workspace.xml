@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d4f09dc-7520-4970-ae3d-3511a2443517" name="Default" comment="" />
+    <list default="true" id="55d10e13-5bcc-4b78-85b6-14f2e0a7290d" name="automation_test-1 set up jenkins" comment="automation_test-1 set up jenkins">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/ExtentReportListener/ExtentReporterNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/base/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/ContactsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/DealsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/SignUpPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/TasksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/pages/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/testcases/ContactsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/testcases/GooglePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/testcases/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/utils/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/regression/utils/WebEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/automation_test-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Extent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/FREE CRM Application Test Automation Test Suite/Free CRM App Test Cases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/FREE CRM Application Test Automation Test Suite/Free CRM App Test Cases.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/FREE CRM Application Test Automation Test Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/ScreenshotReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/regression.testcases.HomePageTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-regression.testcases.HomePageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/Free CRM App Test Cases.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/FREE CRM Application Test Automation Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/regression.testcases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testdownloads/ScreenshotReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-regression.testcases.HomePageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/regression/ExtentReportListener/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/regression/ExtentReportListener/ExtentReporterNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/regression/testcases/GooglePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/regression/testcases/GooglePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/regression/testcases/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/regression/testcases/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java" afterDir="false" />
+    </list>
+    <list id="3d4f09dc-7520-4970-ae3d-3511a2443517" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -58,24 +135,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContactsPageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/ContactsPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/regression/base/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="65" column="59" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
+            <state>
+              <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,35 +148,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="350">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GooglePageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/GooglePageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -125,36 +169,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtentReporterNG.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/regression/ExtentReportListener/ExtentReporterNG.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/regression/pages/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -162,6 +176,14 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ea58fca2dea15642d03a08356195e35f18e05b49" />
+      </map>
     </option>
   </component>
   <component name="GradleLocalSettings">
@@ -546,21 +568,22 @@
         <option value="$PROJECT_DIR$/src/test/java/regression/testcases/ContactsPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/regression/utils/TestUtil.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/regression/testcases/GooglePageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/regression/base/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/resources/config.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/regression/pages/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/regression/ExtentReportListener/ExtentReporterNG.java" />
+        <option value="$PROJECT_DIR$/src/test/java/regression/testcases/GooglePageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/regression/base/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="42" />
     <option name="width" value="1286" />
     <option name="height" value="738" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -574,43 +597,6 @@
             <path>
               <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
@@ -660,24 +646,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="regression" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtentReportListener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="regression" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="regression" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -686,10 +654,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -706,6 +670,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3534057" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="start.from.branch" value="origin/master" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -727,7 +692,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.automation_test [build]">
+  <component name="RunManager" selected="Gradle.automation_test [clean]">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regression.pages.Test" />
       <module name="automation_test_test" />
@@ -881,11 +846,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HomePageTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Gradle.automation_test [build]" />
         <item itemvalue="Gradle.automation_test [clean]" />
         <item itemvalue="TestNG.GooglePageTest" />
-        <item itemvalue="TestNG.HomePageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -893,22 +858,45 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <changelist id="3d4f09dc-7520-4970-ae3d-3511a2443517" name="Default" comment="" />
       <created>1540240482857</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540240482857</updated>
+      <updated>1540614821193</updated>
     </task>
-    <servers />
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1540613939755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540613939755</updated>
+    </task>
+    <task active="true" id="automation_test-1" summary="set up jenkins">
+      <branch name="origin/master" repository="D:\ideaProjects\automation_test" original="true" />
+      <branch name="automation_test-1" repository="D:\ideaProjects\automation_test" />
+      <changelist id="55d10e13-5bcc-4b78-85b6-14f2e0a7290d" name="automation_test-1 set up jenkins" comment="" />
+      <created>1540639441000</created>
+      <option name="issue" value="true" />
+      <url>https://github.com/Hanumanjee/automation_test/issues/1</url>
+      <option name="number" value="1" />
+      <option name="presentableId" value="automation_test-1" />
+      <option name="project" value="automation_test" />
+      <option name="type" value="BUG" />
+      <updated>1540639441000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <option name="searchClosedTasks" value="true" />
+    <servers>
+      <Gitlab shared="true" url="https://github.com/Hanumanjee/automation_test" />
+      <GitHub url="https://github.com">
+        <token>df92df98df99df99dfcbdf9fdf9fdfcbdfccdfc9dfcedf9fdf92df98df98df9ddf9ddfcbdfcfdfcbdfcedf98dfcbdf9ddf9edf9edf9ddf9fdf99df9fdf9ddfccdf9adf92dfc9dfcedf9edf9fdf93dfce</token>
+        <option name="repoAuthor" value="Hanumanjee" />
+        <option name="repoName" value="automation_test" />
+      </GitHub>
+    </servers>
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest_verifyHomePageTitleTest - 2018.10.22 at 18h 02m 31s.xml">
-      <configuration name="HomePageTest.verifyHomePageTitleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest_verifyHomePageTitleTest - 2018.10.22 at 18h 51m 43s.xml">
-      <configuration name="HomePageTest.verifyHomePageTitleTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomePageTest_verifyUserNameTest - 2018.10.22 at 18h 52m 19s.xml">
       <configuration name="HomePageTest.verifyUserNameTest" configurationId="TestNG" />
     </history-entry>
@@ -933,25 +921,31 @@
     <history-entry file="GooglePageTest - 2018.10.24 at 19h 10m 22s.xml">
       <configuration name="GooglePageTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTest - 2018.10.26 at 21h 59m 35s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.10.26 at 22h 01m 12s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="0" width="1286" height="738" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2512235" />
-      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.18841761" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23298033" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.17473525" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -965,7 +959,6 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.30718955" />
       <window_info active="true" anchor="bottom" id="Find" order="5" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Messages" order="11" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="5" />
@@ -1000,6 +993,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="automation_test-1 set up jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="automation_test-1 set up jenkins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1369,37 +1367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/regression/base/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="65" column="59" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/GooglePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1423,20 +1394,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="119">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/GooglePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/regression/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
