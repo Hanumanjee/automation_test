@@ -25,7 +25,7 @@ public class HomePageTest extends TestBase {
     //@test -- execute test case
     //after each test case -- close the browser
 
-    @BeforeMethod()
+    @BeforeMethod(alwaysRun = true)
     public void setUp() {
         initialization();
         testUtil = new TestUtil();
@@ -66,7 +66,7 @@ public class HomePageTest extends TestBase {
 
 
 
-    @AfterMethod()
+    @AfterMethod(alwaysRun = true)
     public void tearDown(){
         driver.quit();
     }
