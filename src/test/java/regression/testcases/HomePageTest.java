@@ -1,8 +1,8 @@
 package regression.testcases;
 
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import regression.base.TestBase;
 import regression.pages.ContactsPage;
@@ -25,7 +25,7 @@ public class HomePageTest extends TestBase {
     //@test -- execute test case
     //after each test case -- close the browser
 
-    @BeforeMethod(alwaysRun = true)
+    @BeforeTest(alwaysRun = true)
     public void setUp() {
         initialization();
         testUtil = new TestUtil();
@@ -37,6 +37,16 @@ public class HomePageTest extends TestBase {
 
     @Test
     public void verifyHomePageTitleTest(){
+        String homePageTitle = homePage.verifyHomePageTitle();
+        Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
+    }
+    @Test
+    public void verifyHomePageTitleTest1(){
+        String homePageTitle = homePage.verifyHomePageTitle();
+        Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
+    }
+    @Test
+    public void verifyHomePageTitleTest2(){
         String homePageTitle = homePage.verifyHomePageTitle();
         Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
     }
@@ -66,7 +76,7 @@ public class HomePageTest extends TestBase {
 
 
 
-    @AfterMethod(alwaysRun = true)
+    @AfterTest(alwaysRun = true)
     public void tearDown(){
         driver.quit();
     }
