@@ -11,7 +11,7 @@
         <classes>
             <class name="regression.testcases.GooglePageTest"></class>
             <class name="regression.testcases.BeforeMethodTest"></class>
-            <class name="regression.testcases.HomePageTest"></class>
+            <!--<class name="regression.testcases.HomePageTest"></class>-->
         </classes>
     </test>
 </suite>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d10e13-5bcc-4b78-85b6-14f2e0a7290d" name="automation_test-1 set up jenkins" comment="automation_test-1 set up jenkins">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/regression/testcases/BeforeMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/regression/testcases/BeforeMethodTest.java" afterDir="false" />
-    </list>
     <list id="3d4f09dc-7520-4970-ae3d-3511a2443517" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <list default="true" id="55d10e13-5bcc-4b78-85b6-14f2e0a7290d" name="automation_test-1 set up jenkins" comment="automation_test-1 set up jenkins">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -134,8 +133,8 @@
       <file leaf-file-name="BeforeMethodTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/BeforeMethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="286">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
@@ -844,7 +843,7 @@
       <option name="presentableId" value="automation_test-1" />
       <option name="project" value="automation_test" />
       <option name="type" value="BUG" />
-      <updated>1540750486469</updated>
+      <updated>1540751245518</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="searchClosedTasks" value="true" />
@@ -899,8 +898,8 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.45261437" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.43954247" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38071895" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.25980392" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="0" />
@@ -1334,8 +1333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/regression/testcases/BeforeMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="286">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#611#612#0" expanded="true" />
