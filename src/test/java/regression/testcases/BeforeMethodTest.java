@@ -1,5 +1,7 @@
 package regression.testcases;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -15,14 +17,21 @@ public class BeforeMethodTest extends TestBase {
     public void HanumanjeeTest(){
 
         System.out.println("Passed");
+        WebElement searchField= driver.findElement(By.xpath("//*[@id=\"tsf\"]/div[2]/div[1]/div[1]/div/div[1]/input"));
+        searchField.clear();
+        searchField.sendKeys("San Fransisco");
 
         //
 
     }
+
     @Test
     public void HanumanjeeTest1(){
 
         System.out.println("Passed");
+       WebElement searchField= driver.findElement(By.xpath("//*[@id=\"tsf\"]/div[2]/div[1]/div[1]/div/div[1]/input"));
+       searchField.clear();
+       searchField.sendKeys("Hanumanjee");
 
         //
 
@@ -31,6 +40,9 @@ public class BeforeMethodTest extends TestBase {
     public void HanumanjeeTest2(){
 
         System.out.println("Passed");
+        WebElement searchField= driver.findElement(By.xpath("//*[@id=\"tsf\"]/div[2]/div[1]/div[1]/div/div[1]/input"));
+        searchField.clear();
+        searchField.sendKeys("Puri");
 
         //
 
