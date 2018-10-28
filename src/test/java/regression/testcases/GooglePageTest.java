@@ -1,7 +1,7 @@
 package regression.testcases;
 
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import regression.base.TestBase;
 
@@ -10,7 +10,7 @@ public class GooglePageTest extends TestBase {
         super();
     }
 
-    @BeforeClass
+    @BeforeTest(alwaysRun = true)
     public void setUp(){
         initialization();
     }
@@ -23,7 +23,23 @@ public class GooglePageTest extends TestBase {
         //
 
     }
-    @AfterClass
+    @Test
+    public void HanumanjeeTest1(){
+
+        System.out.println("Passed");
+
+        //
+
+    }
+    @Test
+    public void HanumanjeeTest2(){
+
+        System.out.println("Passed");
+
+        //
+
+    }
+    @AfterTest(alwaysRun = true)
 
     public void tearDown(){
         driver.quit();
