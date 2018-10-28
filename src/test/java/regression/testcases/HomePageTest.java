@@ -39,22 +39,26 @@ public class HomePageTest extends TestBase {
     public void verifyHomePageTitleTest(){
         String homePageTitle = homePage.verifyHomePageTitle();
         Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
+        driver.quit();
     }
     @Test
     public void verifyHomePageTitleTest1(){
         String homePageTitle = homePage.verifyHomePageTitle();
         Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
+        driver.quit();
     }
     @Test
     public void verifyHomePageTitleTest2(){
         String homePageTitle = homePage.verifyHomePageTitle();
         Assert.assertEquals(homePageTitle, "CRMPRO","Home page title not matched");
+        driver.quit();
     }
 
     @Test
     public void verifyUserNameTest(){
         testUtil.switchToFrame();
         Assert.assertTrue(homePage.verifyCorrectUserName());
+        driver.quit();
     }
 
 
@@ -62,6 +66,7 @@ public class HomePageTest extends TestBase {
     public void verifyContactsLinkTest(){
         testUtil.switchToFrame();
         contactsPage = homePage.clickOnContactsLink();
+        driver.quit();
     }
 
 
