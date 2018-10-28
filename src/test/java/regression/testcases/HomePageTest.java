@@ -56,17 +56,7 @@ public class HomePageTest extends TestBase {
         testUtil.switchToFrame();
         Assert.assertTrue(homePage.verifyCorrectUserName());
     }
-    @Test
-    public void verifyUserNameTest2(){
-        testUtil.switchToFrame();
-        Assert.assertTrue(homePage.verifyCorrectUserName());
-    }
 
-    @Test
-    public void verifyUserNameTest3(){
-        testUtil.switchToFrame();
-        Assert.assertTrue(homePage.verifyCorrectUserName());
-    }
 
     @Test
     public void verifyContactsLinkTest(){
