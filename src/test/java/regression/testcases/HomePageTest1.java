@@ -1,8 +1,8 @@
 package regression.testcases;
 
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import regression.base.TestBase;
 import regression.pages.ContactsPage;
@@ -25,7 +25,7 @@ public class HomePageTest1 extends TestBase {
     //@test -- execute test case
     //after each test case -- close the browser
 
-    @BeforeTest(alwaysRun = true)
+    @BeforeMethod
     public void setUp() {
         initialization();
         testUtil = new TestUtil();
@@ -71,7 +71,7 @@ public class HomePageTest1 extends TestBase {
 
 
 
-    @AfterTest(alwaysRun = true)
+    @AfterMethod
     public void tearDown(){
         driver.quit();
     }
