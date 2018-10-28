@@ -9,9 +9,10 @@
 
     <test name="Free CRM App Test Cases" preserve-order="false">
         <classes>
-            <class name="regression.testcases.GooglePageTest"></class>
-            <class name="regression.testcases.BeforeMethodTest"></class>
-            <!--<class name="regression.testcases.HomePageTest"></class>-->
+            <!--<class name="regression.testcases.GooglePageTest"></class>-->
+            <!--<class name="regression.testcases.BeforeMethodTest"></class>-->
+            <class name="regression.testcases.HomePageTest"></class>
+            <class name="regression.testcases.HomePageTest1"></class>
         </classes>
     </test>
 </suite>
