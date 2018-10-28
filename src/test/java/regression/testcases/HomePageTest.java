@@ -1,7 +1,7 @@
 package regression.testcases;
 
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import regression.base.TestBase;
@@ -71,7 +71,7 @@ public class HomePageTest extends TestBase {
 
 
 
-    @AfterMethod
+    @AfterTest(alwaysRun = true)
     public void tearDown(){
         driver.quit();
     }
