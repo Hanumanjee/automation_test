@@ -12,7 +12,7 @@
             <!--<class name="regression.testcases.GooglePageTest"></class>-->
             <!--<class name="regression.testcases.BeforeMethodTest"></class>-->
             <class name="regression.testcases.HomePageTest"></class>
-            <class name="regression.testcases.HomePageTest1"></class>
+            <!--<class name="regression.testcases.HomePageTest1"></class>-->
         </classes>
     </test>
 </suite>

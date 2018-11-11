@@ -21,7 +21,7 @@ public class ExtentReporterNG implements IReporter {
 
         extent = new ExtentReports(outputDirectory + File.separator
                 + "Extent.html", true);
-        //extent = new ExtentReports(reportLocation +File.separator+"\\ScreenshotReport.html",true);
+//        extent = new ExtentReports(reportLocation +File.separator+"\\ICMSExtentReport.html",true);
 
         for (ISuite suite : suites) {
             Map<String, ISuiteResult> result = suite.getResults();
