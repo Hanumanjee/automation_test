@@ -1,5 +1,6 @@
 package regression.testcases;
 
+import org.apache.commons.mail.EmailException;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -9,6 +10,8 @@ import regression.pages.ContactsPage;
 import regression.pages.HomePage;
 import regression.pages.LoginPage;
 import regression.utils.TestUtil;
+
+import static regression.ExtentReportListener.SendEmailJava.sendReportmail;
 
 public class HomePageTest extends TestBase {
     LoginPage loginPage;
@@ -72,8 +75,11 @@ public class HomePageTest extends TestBase {
 
 
     @AfterMethod
-    public void tearDown(){
+    public void tearDown() throws EmailException {
+        sendReportmail();
         driver.quit();
     }
+
+
 
 }
