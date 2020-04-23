@@ -9,7 +9,7 @@ import regression.base.TestBase;
 
 
 public class ContactsPage extends TestBase {
-
+//testing
     @FindBy(xpath = "//td[contains(text(),'Contacts')]")
     WebElement contactsLabel;
 
